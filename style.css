@@ -1,0 +1,43 @@
+.container {
+    text-align: center;
+
+}
+
+.searchArea{
+    width: 90%;
+    background-color: rgb(241, 241, 241);
+    position: relative; bottom: 1em; left: 5%; margin-top: 0;
+
+}
+
+.thirdDiv {
+    width: 25%;
+    height: 80px;
+    background-color: #70CCC2;    
+    padding: 0px;
+    float: left;
+    margin: 1px;
+    padding: 1px;
+    font-size: 13px;
+    position: relative; bottom: 1em;
+}
+
+.div-possetion{
+    width: 37%;
+    background-color: #7EE5DA;
+}
+
+.lastBox {
+    width: 37%;
+    align-items : right;
+    background-color: #62B3AA;
+}
+
+.greenArea {
+    width: 90%;
+    position: relative;
+    margin: auto;
+}
+
+
+
